@@ -120,7 +120,10 @@ subset (~50 files) was copied, covering:
   before/after, the real Supply Chain — Riyadh issued-for-tender elevation and wall detail.
 - `modern-facade.mp4` / `modern-facade-poster.webp` — the featured video walkthrough, used on
   `exterior.html`.
-- `favicon-16.png` / `favicon-32.png` / `favicon-180.png` — reused as-is from the personal site.
+- `favicon-16.png` / `favicon-32.png` / `favicon-180.png` — generated from `tafkeek-icon.webp`
+  (cropped to its content, centered on a `--cream` square, sharpened at small sizes) on
+  2026-09-26, replacing the personal-site favicons (the drafting-board/pencil/set-square mark
+  the nav already uses) — no longer reused from the personal-portfolio project.
 - `tafkeek-icon.webp` (nav mark) / `tafkeek-logo-full.webp` (homepage hero lockup) — TAFKEEK's
   real logo assets, copied from `C:\Users\compu line\Downloads\tafkeek-portfolio\img\`.
 - `img/thumbs/` — matching 560px JPEG thumbnails copied alongside, for the same lazy-load pattern
