@@ -22,6 +22,21 @@ the real slogan "Rethinking Space, Redefining Form" (copied from the existing si
 TAFKEEK site's JSON-LD `slogan` field) were also added in this revision — both were missing from
 the first draft.
 
+**Global positioning, not regional-only (2026-09-30 revision)**: the user explicitly said the
+studio's work is not targeted at Egypt/KSA/UAE/Qatar alone but at clients worldwide. Every
+"coverage" / "regions" style statement across all four pages (hero meta, about-facts, page
+meta-grids, contact block, footers) now reads **"Remote Worldwide · Based in Egypt"** instead of
+listing only the four countries. This is a positioning statement about current service
+availability (consistent with the site's pre-existing "Open to Remote · Hybrid · On-site
+engagements" line), not a rewrite of history — **real, confirmed past-delivery facts specific to
+named projects or the four countries (the "4+ Countries" / "150K+ m²" stats, the Regional
+Experience / About-section sentences describing delivery "across Egypt, Saudi Arabia, UAE and
+Qatar", the Square Business Hub / Master Plan captions naming Egypt) were left unchanged** —
+those are true historical claims, not scope limits, so they stay as supporting proof alongside
+the new worldwide framing rather than being deleted. The JSON-LD gained `"areaServed": "Worldwide"`
+and `index.html`'s meta keywords gained "remote design studio, worldwide" alongside the existing
+country keywords.
+
 - `index.html` — company homepage (hero, services overview, selected work, BIM workflow strip,
   why-work-with-TAFKEEK, about, client testimonials, contact).
 - `interior.html` — Interior Design capability/portfolio page.
